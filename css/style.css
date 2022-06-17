@@ -1,0 +1,68 @@
+/* CSS Document */
+.header{
+	padding: 24px 0
+}
+.logo a{
+	font-size: 36px;
+	color: #1f1f1f;
+	text-decoration: none
+}
+.nav ul{
+	list-style: none;
+}
+.nav li{
+	margin: 0 16px;
+}
+.nav li a{
+	text-decoration: none;
+	color: #1f1f1f
+}
+.nav li a:hover{
+	opacity: 0.8
+}
+/*header*/
+.banner{
+	background: url("../img/unsplash_EZyot4kBaLg.png");
+	padding: 153px 0;
+	text-align: center;
+	background-size: cover;
+	background-position:center;
+}
+.content-banner p{
+	margin-bottom: 40px;
+	margin-top: 16px;
+}
+.btn{
+	color: white;
+	background: #3C74CB;
+	text-decoration: none;
+	padding: 16px 40px;
+}
+.services{
+	padding: 80px 0;
+}
+.services h1{
+	text-align: center;
+	margin-bottom: 40px
+}
+.feature{
+	height: 290px;
+	overflow: hidden
+}
+.feature img{
+	height: 100%
+}
+.content-box{
+	padding: 16px 0
+}
+.box h2{
+	margin-bottom: 16px;
+}
+.content-box p{
+	margin-bottom: 16px;
+}
+.social-icon a{
+	color: #1f1f1f;
+	margin-left: 8px;
+	font-size: 16px
+}
